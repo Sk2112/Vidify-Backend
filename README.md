@@ -31,7 +31,7 @@ Before running this project, make sure you have the following installed:
 ## 🛠️ Tech Stack
 - **Spring Boot** – Backend framework  
 - **Spring Data JPA** – ORM  
-- **MySQL/PostgreSQL** – Database  
+- **MySQL** – Database  
 - **Clerk** – Authentication integration  
 - **Maven** – Build tool  
 
