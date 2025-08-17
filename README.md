@@ -68,6 +68,9 @@ Before running this project, make sure you have the following installed:
 ## 🤝 Contributing
 - Contributions are welcome! Please fork the repo and create a pull request.
 
+## 🧑‍💻 Frontend Code 
+- GitHub Repo Link : https://github.com/Sk2112/Vidify-Frontend
+
 ## 📧 Contact
 Built with ❤️ by Sumit Kumar
 - LinkedIn : https://www.linkedin.com/in/21sk12/
